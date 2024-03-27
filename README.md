@@ -45,7 +45,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution](https://github.com/Medido1/Frontend-Mentor-Newsletter-sign-up-form-with-success-message)
-- Live Site URL: [live site]()
+- Live Site URL: [live site](https://medido1.github.io/Frontend-Mentor-Newsletter-sign-up-form-with-success-message/)
 
 ## My process
 
